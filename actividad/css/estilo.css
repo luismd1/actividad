@@ -10,3 +10,23 @@ h1{
     font-size: 30px;
     font-family: Arial;
 }
+a{
+    text-decoration: none;
+}
+
+body{
+    background-image: url(/actividad/imagenes/FondoMain.png);
+    background-repeat: repeat;
+}
+.titulos{
+    margin-top: 50px;
+    color: rgb(255, 243, 0 );
+}
+.imagen{
+    width: 400px;
+    
+}
+#tabla{
+    position: relative;
+    top: 400px; left: -43.5%;
+}
