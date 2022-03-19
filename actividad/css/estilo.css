@@ -30,3 +30,6 @@ body{
     position: relative;
     top: 400px; left: -43.5%;
 }
+#tablaperro{
+    background-color: rgba( 161, 153, 157, 0.7);
+}
