@@ -28,8 +28,12 @@ body{
 }
 #tabla{
     position: relative;
-    top: 400px; left: -43.5%;
+    top: 400px; left: -42.5%;
+    background-color: rgba( 161, 153, 157, 0.7);
 }
 #tablaperro{
     background-color: rgba( 161, 153, 157, 0.7);
+}
+#botonmenu{
+    background-color: rgb(255, 243, 0 );
 }
